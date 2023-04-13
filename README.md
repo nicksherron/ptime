@@ -1,4 +1,4 @@
-#PTIME
+# ptime
 
 Simple cli tool that accepts a time duration and prints it in a more human readable format.
 
